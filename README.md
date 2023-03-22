@@ -1,3 +1,2 @@
 # Coding-Template
-THis is a Codinng Template for CP
-saagaaarrrrrr  baddddwwaaaa  
+THis is a Codinng Template for CP sagar badwa
